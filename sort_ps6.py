@@ -5,11 +5,12 @@ import pytz
 import json
 
 class PS6(object):
-    def __init__(self, day:int, time:int, dat:dt.date, entry:int, clw:str, sculpt:str, quant:int):
+    def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int):
         self.day = day
         self.entry_time = time
         self.date = dat
         self.entry_window = entry
+        self.entry_unit = entry_unit
         self.sculpt = sculpt
         self.colorway = clw
         self.quantity = quant
@@ -18,6 +19,7 @@ class PS6(object):
         return {
             'day': self.day,
             'entry_time': self.entry_time,
+            'entry_unit': self.entry_unit,
             'date_time_formatted': self.date.isoformat(),
             'entry_window': self.entry_window,
             'sculpt': self.sculpt,
@@ -39,7 +41,8 @@ with open ('PS6 Dates and Times - Sheet1.csv', 'r') as f:
                     day=int(x['Day']), 
                     time=x['Time (PST)'], 
                     dat=tz.localize(dt.datetime(year=int(x['Date'].split('/')[2]), month=int(x['Date'].split('/')[0]), day=int(x['Date'].split('/')[1]), hour=int(x['Time (PST)']) )).astimezone(pytz.timezone('UTC')),
-                    entry=int(x['Entry Window'].replace('m','')), 
+                    entry=int(x['Entry Window'].replace('m','')),
+                    entry_unit="minute",
                     sculpt=x['Sculpts'].split(',')[s], 
                     clw=x['Colorway'], 
                     quant=int(x['Quantity'].split(',')[s])
