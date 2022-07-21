@@ -218,5 +218,25 @@
         "sculpt": "Egg Pilot",
         "colorway": "Visitant",
         "quantity": 9
+    },
+    {
+        "day": 12,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-20T21:00:00+00:00",
+        "entry_window": 2,
+        "sculpt": "Bongoface",
+        "colorway": "Sugarbean",
+        "quantity": 9
+    },
+    {
+        "day": 12,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-20T21:00:00+00:00",
+        "entry_window": 2,
+        "sculpt": "Egg Pilot",
+        "colorway": "Sugarbean",
+        "quantity": 9
     }
 ]
