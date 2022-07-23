@@ -115,7 +115,7 @@
         "entry_unit": "minute",
         "date_time_formatted": "2022-07-11T16:00:00+00:00",
         "entry_window": 5,
-        "sculpt": "Fugthulu",
+        "sculpt": "Fugthulhu",
         "colorway": "Cottingley",
         "quantity": 12
     },
@@ -238,5 +238,25 @@
         "sculpt": "Egg Pilot",
         "colorway": "Sugarbean",
         "quantity": 9
+    },
+    {
+        "day": 13,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-21T21:00:00+00:00",
+        "entry_window": 2,
+        "sculpt": "Moondrop",
+        "colorway": "Lagoon",
+        "quantity": 6
+    },
+    {
+        "day": 14,
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-23T02:00:00+00:00",
+        "entry_window": 2,
+        "sculpt": "Moondrop",
+        "colorway": "Lagoon",
+        "quantity": 6
     }
 ]
