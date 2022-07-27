@@ -3,6 +3,7 @@ from pprint import pprint
 import datetime as dt
 import pytz
 import json
+import sys
 
 class PS6(object):
     def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int):
@@ -30,7 +31,7 @@ class PS6(object):
 PS6Caps = []
 tz = pytz.timezone('US/Pacific')
 
-with open ('PS6 Dates and Times - Sheet1.csv', 'r') as f:
+with open (sys.argv[1], 'r') as f:
     reader = csv.DictReader(f)
     headers = reader.fieldnames
     for x in reader:
