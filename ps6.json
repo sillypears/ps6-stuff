@@ -278,5 +278,45 @@
         "sculpt": "Egg v2",
         "colorway": "Aubergine Mentation",
         "quantity": 16
+    },
+    {
+        "day": 17,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-27T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fugkotsu",
+        "colorway": "HF1",
+        "quantity": 16
+    },
+    {
+        "day": 18,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-28T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Ling Ling Potion",
+        "quantity": 16
+    },
+    {
+        "day": 18,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-28T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Ling Ling Potion",
+        "quantity": 16
+    },
+    {
+        "day": 19,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-07-29T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "HF1",
+        "quantity": 18
     }
 ]
