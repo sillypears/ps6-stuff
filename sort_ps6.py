@@ -6,7 +6,7 @@ import json
 import sys
 
 class PS6(object):
-    def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int):
+    def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int, link:str) :
         self.day = day
         self.entry_time = time
         self.date = dat
@@ -15,6 +15,7 @@ class PS6(object):
         self.sculpt = sculpt
         self.colorway = clw
         self.quantity = quant
+        self.link = link
 
     def to_json(self):
         return {
@@ -25,7 +26,8 @@ class PS6(object):
             'entry_window': self.entry_window,
             'sculpt': self.sculpt,
             'colorway': self.colorway,
-            'quantity': self.quantity
+            'quantity': self.quantity,
+            'link': self.link
         }
 
 PS6Caps = []
@@ -46,7 +48,8 @@ with open (sys.argv[1], 'r') as f:
                     entry_unit="minute",
                     sculpt=x['Sculpts'].split(',')[s], 
                     clw=x['Colorway'], 
-                    quant=int(x['Quantity'].split(',')[s])
+                    quant=int(x['Quantity'].split(',')[s]),
+                    link=x['Link']
                 )
                 PS6Caps.append(temp)
             except:
