@@ -405,5 +405,27 @@
         "colorway": "Aubergine Mentation",
         "quantity": 18,
         "link": "https://www.instagram.com/p/Cg1BZZzIz5z/"
+    },
+    {
+        "day": 24,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-05T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fugkotsu",
+        "colorway": "Ling Ling Potion",
+        "quantity": 13,
+        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/"
+    },
+    {
+        "day": 24,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-05T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fugthulhu",
+        "colorway": "Ling Ling Potion",
+        "quantity": 11,
+        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/"
     }
 ]
