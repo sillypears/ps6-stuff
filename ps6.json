@@ -427,5 +427,27 @@
         "colorway": "Ling Ling Potion",
         "quantity": 11,
         "link": "https://www.instagram.com/p/Cg3mJTHIKYE/"
+    },
+    {
+        "day": 25,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-08T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Unit-01 v2",
+        "quantity": 13,
+        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/"
+    },
+    {
+        "day": 25,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-08T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Unit-01 v2",
+        "quantity": 18,
+        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/"
     }
 ]
