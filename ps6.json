@@ -449,5 +449,38 @@
         "colorway": "Unit-01 v2",
         "quantity": 18,
         "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/"
+    },
+    {
+        "day": 26,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-09T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Chessmen v2",
+        "quantity": 18,
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
+    },
+    {
+        "day": 26,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-09T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fugkotsu",
+        "colorway": "Chessmen v2",
+        "quantity": 9,
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
+    },
+    {
+        "day": 26,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_time_formatted": "2022-08-09T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Chessmen v2",
+        "quantity": 14,
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
     }
 ]
