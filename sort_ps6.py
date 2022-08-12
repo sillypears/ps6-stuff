@@ -23,6 +23,7 @@ class PS6(object):
             'day': self.day,
             'entry_time': self.entry_time,
             'entry_unit': self.entry_unit,
+            'date_day': self.date.strftime('%Y-%m-%d'),
             'date_time_formatted': self.date.isoformat(),
             'entry_window': self.entry_window,
             'sculpt': self.sculpt,
