@@ -8,7 +8,8 @@
         "sculpt": "Fughoul",
         "colorway": "Patissier",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/CfnxjFYrV-F/"
+        "link": "https://www.instagram.com/p/CfnxjFYrV-F/",
+        "goldbag": false
     },
     {
         "day": 2,
@@ -19,7 +20,8 @@
         "sculpt": "Bongoface",
         "colorway": "Amanita Minute",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/CfqWRrst15r/"
+        "link": "https://www.instagram.com/p/CfqWRrst15r/",
+        "goldbag": false
     },
     {
         "day": 2,
@@ -30,7 +32,8 @@
         "sculpt": "Egg Pilot",
         "colorway": "Amanita Minute",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/CfqWRrst15r/"
+        "link": "https://www.instagram.com/p/CfqWRrst15r/",
+        "goldbag": false
     },
     {
         "day": 2,
@@ -41,7 +44,8 @@
         "sculpt": "Egg v2",
         "colorway": "Amanita Minute",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/CfqWRrst15r/"
+        "link": "https://www.instagram.com/p/CfqWRrst15r/",
+        "goldbag": false
     },
     {
         "day": 2,
@@ -52,7 +56,8 @@
         "sculpt": "Nest Egg",
         "colorway": "Amanita Minute",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/CfqWRrst15r/"
+        "link": "https://www.instagram.com/p/CfqWRrst15r/",
+        "goldbag": false
     },
     {
         "day": 3,
@@ -63,7 +68,8 @@
         "sculpt": "Fughoul",
         "colorway": "Inlet",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/Cfs7FYUhjDJ/"
+        "link": "https://www.instagram.com/p/Cfs7FYUhjDJ/",
+        "goldbag": false
     },
     {
         "day": 4,
@@ -74,7 +80,8 @@
         "sculpt": "Nest Egg",
         "colorway": "Baneful",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/"
+        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/",
+        "goldbag": false
     },
     {
         "day": 4,
@@ -85,7 +92,8 @@
         "sculpt": "Egg v2",
         "colorway": "Baneful",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/"
+        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/",
+        "goldbag": false
     },
     {
         "day": 4,
@@ -96,7 +104,8 @@
         "sculpt": "Bombking",
         "colorway": "Baneful",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/"
+        "link": "https://www.instagram.com/p/Cfvf7ueKZ3T/",
+        "goldbag": false
     },
     {
         "day": 5,
@@ -107,7 +116,8 @@
         "sculpt": "Fughoul",
         "colorway": "Cottingley",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/"
+        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/",
+        "goldbag": false
     },
     {
         "day": 5,
@@ -118,7 +128,8 @@
         "sculpt": "Fugkotsu",
         "colorway": "Cottingley",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/"
+        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/",
+        "goldbag": false
     },
     {
         "day": 5,
@@ -129,7 +140,8 @@
         "sculpt": "Fugthulhu",
         "colorway": "Cottingley",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/"
+        "link": "https://www.instagram.com/p/Cf3OPUFMn0D/",
+        "goldbag": false
     },
     {
         "day": 6,
@@ -140,7 +152,8 @@
         "sculpt": "Thousand Hands",
         "colorway": "Gilded Whale",
         "quantity": 5,
-        "link": "https://www.instagram.com/p/Cf5zBENFq4I/"
+        "link": "https://www.instagram.com/p/Cf5zBENFq4I/",
+        "goldbag": false
     },
     {
         "day": 7,
@@ -151,7 +164,8 @@
         "sculpt": "Fughoul",
         "colorway": "Chromatic Sunset",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/Cf8X2jUsNvS/"
+        "link": "https://www.instagram.com/p/Cf8X2jUsNvS/",
+        "goldbag": false
     },
     {
         "day": 8,
@@ -162,7 +176,8 @@
         "sculpt": "Fughoul",
         "colorway": "Peri-twinkle",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/Cf-8syihJNM/"
+        "link": "https://www.instagram.com/p/Cf-8syihJNM/",
+        "goldbag": false
     },
     {
         "day": 8,
@@ -173,7 +188,8 @@
         "sculpt": "Bongoface",
         "colorway": "Peri-twinkle",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/Cf-8syihJNM/"
+        "link": "https://www.instagram.com/p/Cf-8syihJNM/",
+        "goldbag": false
     },
     {
         "day": 8,
@@ -184,7 +200,8 @@
         "sculpt": "Egg Pilot",
         "colorway": "Peri-twinkle",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/Cf-8syihJNM/"
+        "link": "https://www.instagram.com/p/Cf-8syihJNM/",
+        "goldbag": false
     },
     {
         "day": 8,
@@ -195,7 +212,8 @@
         "sculpt": "Egg v2",
         "colorway": "Peri-twinkle",
         "quantity": 6,
-        "link": "https://www.instagram.com/p/Cf-8syihJNM/"
+        "link": "https://www.instagram.com/p/Cf-8syihJNM/",
+        "goldbag": false
     },
     {
         "day": 9,
@@ -206,7 +224,8 @@
         "sculpt": "Egg Pilot",
         "colorway": "Caramel King",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/CgBhYzKLaZW/"
+        "link": "https://www.instagram.com/p/CgBhYzKLaZW/",
+        "goldbag": false
     },
     {
         "day": 10,
@@ -217,7 +236,8 @@
         "sculpt": "Fughoul",
         "colorway": "Baal",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/CgJP0UahTiK/"
+        "link": "https://www.instagram.com/p/CgJP0UahTiK/",
+        "goldbag": false
     },
     {
         "day": 11,
@@ -228,7 +248,8 @@
         "sculpt": "Bongoface",
         "colorway": "Visitant",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/CgL0oi7I95s/"
+        "link": "https://www.instagram.com/p/CgL0oi7I95s/",
+        "goldbag": false
     },
     {
         "day": 11,
@@ -239,7 +260,8 @@
         "sculpt": "Egg Pilot",
         "colorway": "Visitant",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/CgL0oi7I95s/"
+        "link": "https://www.instagram.com/p/CgL0oi7I95s/",
+        "goldbag": false
     },
     {
         "day": 12,
@@ -250,7 +272,8 @@
         "sculpt": "Bongoface",
         "colorway": "Sugarbean",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/CgOZXnQFMTO/"
+        "link": "https://www.instagram.com/p/CgOZXnQFMTO/",
+        "goldbag": false
     },
     {
         "day": 12,
@@ -261,7 +284,8 @@
         "sculpt": "Egg Pilot",
         "colorway": "Sugarbean",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/CgOZXnQFMTO/"
+        "link": "https://www.instagram.com/p/CgOZXnQFMTO/",
+        "goldbag": false
     },
     {
         "day": 13,
@@ -272,7 +296,8 @@
         "sculpt": "Moondrop",
         "colorway": "Lagoon",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/CgQ-Q17sulk/"
+        "link": "https://www.instagram.com/p/CgQ-Q17sulk/",
+        "goldbag": false
     },
     {
         "day": 14,
@@ -283,7 +308,8 @@
         "sculpt": "Wormwood",
         "colorway": "Lagoon",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/CgTi90gMc1P/"
+        "link": "https://www.instagram.com/p/CgTi90gMc1P/",
+        "goldbag": false
     },
     {
         "day": 15,
@@ -294,7 +320,8 @@
         "sculpt": "Fughoul",
         "colorway": "My body, my Melona",
         "quantity": 16,
-        "link": "https://www.instagram.com/p/CgbRX7eJB0x/"
+        "link": "https://www.instagram.com/p/CgbRX7eJB0x/",
+        "goldbag": false
     },
     {
         "day": 16,
@@ -305,7 +332,8 @@
         "sculpt": "Egg v2",
         "colorway": "Aubergine Mentation",
         "quantity": 16,
-        "link": "https://www.instagram.com/p/Cgd2OLNFpI9/"
+        "link": "https://www.instagram.com/p/Cgd2OLNFpI9/",
+        "goldbag": false
     },
     {
         "day": 17,
@@ -316,7 +344,8 @@
         "sculpt": "Fugkotsu",
         "colorway": "HF1",
         "quantity": 16,
-        "link": "https://www.instagram.com/p/Cgga-GKKENQ/"
+        "link": "https://www.instagram.com/p/Cgga-GKKENQ/",
+        "goldbag": false
     },
     {
         "day": 18,
@@ -327,7 +356,8 @@
         "sculpt": "Fughoul",
         "colorway": "Ling Ling Potion",
         "quantity": 16,
-        "link": "https://www.instagram.com/p/Cgi_uydP4G-/"
+        "link": "https://www.instagram.com/p/Cgi_uydP4G-/",
+        "goldbag": false
     },
     {
         "day": 18,
@@ -338,7 +368,8 @@
         "sculpt": "Egg v2",
         "colorway": "Ling Ling Potion",
         "quantity": 16,
-        "link": "https://www.instagram.com/p/Cgi_uydP4G-/"
+        "link": "https://www.instagram.com/p/Cgi_uydP4G-/",
+        "goldbag": false
     },
     {
         "day": 19,
@@ -349,7 +380,8 @@
         "sculpt": "Fughoul",
         "colorway": "HF1",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/Cglklv6I-57/"
+        "link": "https://www.instagram.com/p/Cglklv6I-57/",
+        "goldbag": false
     },
     {
         "day": 20,
@@ -360,7 +392,8 @@
         "sculpt": "Fugthulhu",
         "colorway": "B.M.'s Vegetal",
         "quantity": 17,
-        "link": "https://www.instagram.com/p/CgtS_K9Ndeo/"
+        "link": "https://www.instagram.com/p/CgtS_K9Ndeo/",
+        "goldbag": false
     },
     {
         "day": 20,
@@ -371,7 +404,8 @@
         "sculpt": "Egg v2",
         "colorway": "B.M.'s Vegetal",
         "quantity": 11,
-        "link": "https://www.instagram.com/p/CgtS_K9Ndeo/"
+        "link": "https://www.instagram.com/p/CgtS_K9Ndeo/",
+        "goldbag": false
     },
     {
         "day": 21,
@@ -382,7 +416,8 @@
         "sculpt": "Fugkotsu",
         "colorway": "My body, my Melona",
         "quantity": 12,
-        "link": "https://www.instagram.com/p/Cgv3vN-oQoC/"
+        "link": "https://www.instagram.com/p/Cgv3vN-oQoC/",
+        "goldbag": false
     },
     {
         "day": 22,
@@ -393,7 +428,8 @@
         "sculpt": "Egg v2",
         "colorway": "HF1",
         "quantity": 14,
-        "link": "https://www.instagram.com/p/Cgycj1StO4-/"
+        "link": "https://www.instagram.com/p/Cgycj1StO4-/",
+        "goldbag": false
     },
     {
         "day": 23,
@@ -404,7 +440,8 @@
         "sculpt": "Fughoul",
         "colorway": "Aubergine Mentation",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/Cg1BZZzIz5z/"
+        "link": "https://www.instagram.com/p/Cg1BZZzIz5z/",
+        "goldbag": false
     },
     {
         "day": 24,
@@ -415,7 +452,8 @@
         "sculpt": "Fugkotsu",
         "colorway": "Ling Ling Potion",
         "quantity": 13,
-        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/"
+        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/",
+        "goldbag": false
     },
     {
         "day": 24,
@@ -426,7 +464,8 @@
         "sculpt": "Fugthulhu",
         "colorway": "Ling Ling Potion",
         "quantity": 11,
-        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/"
+        "link": "https://www.instagram.com/p/Cg3mJTHIKYE/",
+        "goldbag": false
     },
     {
         "day": 25,
@@ -437,7 +476,8 @@
         "sculpt": "Fughoul",
         "colorway": "Unit-01 v2",
         "quantity": 13,
-        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/"
+        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/",
+        "goldbag": true
     },
     {
         "day": 25,
@@ -448,7 +488,8 @@
         "sculpt": "Egg v2",
         "colorway": "Unit-01 v2",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/"
+        "link": "https://www.instagram.com/p/Cg_Ufk3r7lI/",
+        "goldbag": true
     },
     {
         "day": 26,
@@ -459,7 +500,8 @@
         "sculpt": "Fughoul",
         "colorway": "Chessmen v2",
         "quantity": 18,
-        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy",
+        "goldbag": true
     },
     {
         "day": 26,
@@ -470,7 +512,8 @@
         "sculpt": "Fugkotsu",
         "colorway": "Chessmen v2",
         "quantity": 9,
-        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy",
+        "goldbag": true
     },
     {
         "day": 26,
@@ -481,7 +524,8 @@
         "sculpt": "Egg v2",
         "colorway": "Chessmen v2",
         "quantity": 14,
-        "link": "https://www.instagram.com/p/ChB5VuPFaSy"
+        "link": "https://www.instagram.com/p/ChB5VuPFaSy",
+        "goldbag": true
     },
     {
         "day": 27,
@@ -492,7 +536,8 @@
         "sculpt": "Egg v2",
         "colorway": "I PI EVRYTIEM",
         "quantity": 13,
-        "link": "https://www.instagram.com/p/ChEeD1KsKIE/"
+        "link": "https://www.instagram.com/p/ChEeD1KsKIE/",
+        "goldbag": true
     },
     {
         "day": 28,
@@ -503,6 +548,7 @@
         "sculpt": "",
         "colorway": "DESCRIBE HIM TO ME",
         "quantity": 3,
-        "link": "https://www.instagram.com/p/ChHC7x_F9mf/"
+        "link": "https://www.instagram.com/p/ChHC7x_F9mf/",
+        "goldbag": true
     }
 ]

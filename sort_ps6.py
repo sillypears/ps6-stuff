@@ -6,7 +6,7 @@ import json
 import sys
 
 class PS6(object):
-    def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int, link:str) :
+    def __init__(self, day:int, time:int, dat:dt.date, entry:int, entry_unit:str, clw:str, sculpt:str, quant:int, link:str, goldbag:bool) :
         self.day = day
         self.entry_time = time
         self.date = dat
@@ -16,6 +16,7 @@ class PS6(object):
         self.colorway = clw
         self.quantity = quant
         self.link = link
+        self.goldbag = True if goldbag == "TRUE" else False
 
     def to_json(self):
         return {
@@ -27,7 +28,8 @@ class PS6(object):
             'sculpt': self.sculpt,
             'colorway': self.colorway,
             'quantity': self.quantity,
-            'link': self.link
+            'link': self.link,
+            'goldbag': self.goldbag
         }
 
 PS6Caps = []
@@ -49,7 +51,8 @@ with open (sys.argv[1], 'r') as f:
                     sculpt=x['Sculpts'].split(',')[s], 
                     clw=x['Colorway'], 
                     quant=int(x['Quantity'].split(',')[s]),
-                    link=x['Link']
+                    link=x['Link'],
+                    goldbag=x['Gold Bag']
                 )
                 PS6Caps.append(temp)
             except:
