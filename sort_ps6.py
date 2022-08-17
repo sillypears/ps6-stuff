@@ -35,51 +35,36 @@ class PS6(object):
             'goldbag': self.goldbag
         }
 
-PS6Caps = []
-tz = pytz.timezone('US/Pacific')
+def main():
+    PS6Caps = []
+    tz = pytz.timezone('US/Pacific')
 
-with open (sys.argv[1], 'r') as f:
-    reader = csv.DictReader(f)
-    headers = reader.fieldnames
-    for x in reader:
-        if len(x['Colorway'].split('^')) > 1:
-            for c in range(0, len(x['Colorway'].split('^'))):
-                try:
+    with open (sys.argv[1], 'r') as f:
+        reader = csv.DictReader(f)
+        headers = reader.fieldnames
+        for x in reader:
+            try:
+                if x['Time (PST)'] != '':
                     temp = PS6(
                         day=int(x['Day']), 
                         time=x['Time (PST)'], 
                         dat=tz.localize(dt.datetime(year=int(x['Date'].split('/')[2]), month=int(x['Date'].split('/')[0]), day=int(x['Date'].split('/')[1]), hour=int(x['Time (PST)']) )).astimezone(pytz.timezone('UTC')),
                         entry=int(x['Entry Window'].replace('m','')),
-                        entry_unit="minute",
+                        entry_unit="minute" if x['Entry Window'].partition('m')[1] == 'm' else "second",
                         sculpt=x['Sculpts'], 
-                        clw=x['Colorway'].split('^')[c],
-                        quant=int(x['Quantity'].split(',')[c]),
+                        clw=x['Colorway'],
+                        quant=int(x['Quantity']),
                         price=int(x['Price']),
                         link=x['Link'],
                         goldbag=x['Gold Bag']
                     )
                     PS6Caps.append(temp)
-                except:
-                    pass  
-        else:
-            for s in range(0, len(x['Sculpts'].split(','))):
-                # print(int(x['Date'].split('/')[2]), int(x['Date'].split('/')[0]), int(x['Date'].split('/')[1]), int(x['Time (PST)']))
-                try:
-                    temp = PS6(
-                        day=int(x['Day']), 
-                        time=x['Time (PST)'], 
-                        dat=tz.localize(dt.datetime(year=int(x['Date'].split('/')[2]), month=int(x['Date'].split('/')[0]), day=int(x['Date'].split('/')[1]), hour=int(x['Time (PST)']) )).astimezone(pytz.timezone('UTC')),
-                        entry=int(x['Entry Window'].replace('m','')),
-                        entry_unit="minute",
-                        sculpt=x['Sculpts'].split(',')[s], 
-                        clw=x['Colorway'], 
-                        quant=int(x['Quantity'].split(',')[s]),
-                        price=int(x['Price']),
-                        link=x['Link'],
-                        goldbag=x['Gold Bag']
-                    )
-                    PS6Caps.append(temp)
-                except:
-                    pass
-with open('ps6.json', 'w+') as f:
-    json.dump([x.to_json() for x in PS6Caps], f, indent=4)
+            except:
+                pass
+    with open('ps6.json', 'w+') as f:
+        json.dump([x.to_json() for x in PS6Caps], f, indent=4)
+    
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
