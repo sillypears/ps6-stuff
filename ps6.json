@@ -698,5 +698,33 @@
         "price": 200,
         "link": "https://www.instagram.com/p/ChRWCdfs_j5/",
         "goldbag": false
+    },
+    {
+        "day": 31,
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_day": "2022-08-16",
+        "date_time_iso": "2022-08-17T02:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Twentyshot Pablo",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/ChT63vus2qH/",
+        "goldbag": false
+    },
+    {
+        "day": 31,
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_day": "2022-08-16",
+        "date_time_iso": "2022-08-17T02:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Twentyshot Vincent",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/ChT63vus2qH/",
+        "goldbag": false
     }
 ]
