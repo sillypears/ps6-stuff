@@ -754,5 +754,33 @@
         "price": 215,
         "link": "https://www.instagram.com/p/ChWftV9NFF7/",
         "goldbag": false
+    },
+    {
+        "day": 33,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-18",
+        "date_time_iso": "2022-08-18T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Psychodiagnostik",
+        "quantity": 9,
+        "price": 200,
+        "link": "https://www.instagram.com/p/ChZEc3QvFEf/",
+        "goldbag": false
+    },
+    {
+        "day": 33,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-18",
+        "date_time_iso": "2022-08-18T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Psychodiagnostik",
+        "quantity": 9,
+        "price": 200,
+        "link": "https://www.instagram.com/p/ChZEc3QvFEf/",
+        "goldbag": false
     }
 ]
