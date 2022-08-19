@@ -636,7 +636,7 @@
         "date_day": "2022-08-11",
         "date_time_iso": "2022-08-12T02:00:00+00:00",
         "entry_window": 60,
-        "sculpt": "",
+        "sculpt": "Egg v2",
         "colorway": "DESCRIBE HIM TO ME",
         "quantity": 3,
         "price": 105,
@@ -781,6 +781,34 @@
         "quantity": 9,
         "price": 200,
         "link": "https://www.instagram.com/p/ChZEc3QvFEf/",
+        "goldbag": false
+    },
+    {
+        "day": 34,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-19",
+        "date_time_iso": "2022-08-19T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Pleine Lune",
+        "quantity": 6,
+        "price": 240,
+        "link": "https://www.instagram.com/p/ChbpPJ8NoCk/",
+        "goldbag": false
+    },
+    {
+        "day": 34,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-19",
+        "date_time_iso": "2022-08-19T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Luna Papillon",
+        "quantity": 5,
+        "price": 240,
+        "link": "https://www.instagram.com/p/ChbpPJ8NoCk/",
         "goldbag": false
     }
 ]
