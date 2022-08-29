@@ -810,5 +810,47 @@
         "price": 240,
         "link": "https://www.instagram.com/p/ChbpPJ8NoCk/",
         "goldbag": false
+    },
+    {
+        "day": 35,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-22",
+        "date_time_iso": "2022-08-22T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Folk Floral (variant 1)",
+        "quantity": 3,
+        "price": 240,
+        "link": "https://www.instagram.com/p/Ch1ZKloB2tV/?igshid=YmMyMTA2M2Y=",
+        "goldbag": false
+    },
+    {
+        "day": 35,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-22",
+        "date_time_iso": "2022-08-22T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Folk Floral (variant 2)",
+        "quantity": 3,
+        "price": 240,
+        "link": "https://www.instagram.com/p/Ch1ZKloB2tV/?igshid=YmMyMTA2M2Y=",
+        "goldbag": false
+    },
+    {
+        "day": 35,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-22",
+        "date_time_iso": "2022-08-22T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Kapowski",
+        "quantity": 3,
+        "price": 240,
+        "link": "https://www.instagram.com/p/Ch1ZKloB2tV/?igshid=YmMyMTA2M2Y=",
+        "goldbag": false
     }
 ]
