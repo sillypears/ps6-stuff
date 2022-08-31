@@ -852,5 +852,19 @@
         "price": 240,
         "link": "https://www.instagram.com/p/Ch1ZKloB2tV/?igshid=YmMyMTA2M2Y=",
         "goldbag": false
+    },
+    {
+        "day": 36,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-23",
+        "date_time_iso": "2022-08-23T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Lilac Sugar",
+        "quantity": 15,
+        "price": 130,
+        "link": "https://www.instagram.com/p/Ch3-A80PMRK/",
+        "goldbag": false
     }
 ]
