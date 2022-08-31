@@ -866,5 +866,47 @@
         "price": 130,
         "link": "https://www.instagram.com/p/Ch3-A80PMRK/",
         "goldbag": false
+    },
+    {
+        "day": 37,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-24",
+        "date_time_iso": "2022-08-24T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Psychodiagnostik: Brights",
+        "quantity": 6,
+        "price": 200,
+        "link": "https://www.instagram.com/p/Ch6ix3fBi63/",
+        "goldbag": false
+    },
+    {
+        "day": 37,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-24",
+        "date_time_iso": "2022-08-24T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Psychodiagnostik: Dusty Rose",
+        "quantity": 6,
+        "price": 200,
+        "link": "https://www.instagram.com/p/Ch6ix3fBi63/",
+        "goldbag": false
+    },
+    {
+        "day": 37,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-24",
+        "date_time_iso": "2022-08-24T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Psychodiagnostik: Lavender",
+        "quantity": 6,
+        "price": 200,
+        "link": "https://www.instagram.com/p/Ch6ix3fBi63/",
+        "goldbag": false
     }
 ]
