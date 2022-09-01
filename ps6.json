@@ -908,5 +908,19 @@
         "price": 200,
         "link": "https://www.instagram.com/p/Ch6ix3fBi63/",
         "goldbag": false
+    },
+    {
+        "day": 38,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-08-25",
+        "date_time_iso": "2022-08-25T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "The Rose Queen",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/Ch9HlPbKSnK/",
+        "goldbag": false
     }
 ]
