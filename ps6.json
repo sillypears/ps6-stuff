@@ -922,5 +922,47 @@
         "price": 290,
         "link": "https://www.instagram.com/p/Ch9HlPbKSnK/",
         "goldbag": false
+    },
+    {
+        "day": 39,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-26",
+        "date_time_iso": "2022-08-26T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Morgot",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/Ch_saSmsTSB/",
+        "goldbag": false
+    },
+    {
+        "day": 39,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-26",
+        "date_time_iso": "2022-08-26T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Melina",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/Ch_saSmsTSB/",
+        "goldbag": false
+    },
+    {
+        "day": 39,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-08-26",
+        "date_time_iso": "2022-08-26T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Sightless v2",
+        "colorway": "Albinauric",
+        "quantity": 3,
+        "price": 290,
+        "link": "https://www.instagram.com/p/Ch_saSmsTSB/",
+        "goldbag": false
     }
 ]
