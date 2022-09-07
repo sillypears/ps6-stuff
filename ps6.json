@@ -1034,5 +1034,33 @@
         "price": 240,
         "link": "https://www.instagram.com/p/CiJ_nF7ItOc",
         "goldbag": false
+    },
+    {
+        "day": 42,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-07",
+        "date_time_iso": "2022-09-07T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Sunset Mines Gold",
+        "quantity": 15,
+        "price": 115,
+        "link": "https://www.instagram.com/p/CiMkZSWDc24/",
+        "goldbag": false
+    },
+    {
+        "day": 42,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-07",
+        "date_time_iso": "2022-09-07T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Sunset Mines Silver",
+        "quantity": 15,
+        "price": 115,
+        "link": "https://www.instagram.com/p/CiMkZSWDc24/",
+        "goldbag": false
     }
 ]
