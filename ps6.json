@@ -1006,5 +1006,33 @@
         "price": 290,
         "link": "https://www.instagram.com/p/CiHaxULLDA9/",
         "goldbag": false
+    },
+    {
+        "day": 41,
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_day": "2022-09-06",
+        "date_time_iso": "2022-09-07T02:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Eyeliens Emerald",
+        "quantity": 3,
+        "price": 240,
+        "link": "https://www.instagram.com/p/CiJ_nF7ItOc",
+        "goldbag": false
+    },
+    {
+        "day": 41,
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_day": "2022-09-06",
+        "date_time_iso": "2022-09-07T02:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Eyeliens Sapphire",
+        "quantity": 3,
+        "price": 240,
+        "link": "https://www.instagram.com/p/CiJ_nF7ItOc",
+        "goldbag": false
     }
 ]
