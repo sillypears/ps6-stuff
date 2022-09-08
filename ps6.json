@@ -1062,5 +1062,33 @@
         "price": 115,
         "link": "https://www.instagram.com/p/CiMkZSWDc24/",
         "goldbag": false
+    },
+    {
+        "day": 43,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-09-08",
+        "date_time_iso": "2022-09-08T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Summer Skies Swallow",
+        "quantity": 3,
+        "price": 270,
+        "link": "https://www.instagram.com/p/CiPJLCQhYGE/",
+        "goldbag": false
+    },
+    {
+        "day": 43,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-09-08",
+        "date_time_iso": "2022-09-08T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg v2",
+        "colorway": "Summer Skies Eagle",
+        "quantity": 3,
+        "price": 270,
+        "link": "https://www.instagram.com/p/CiPJLCQhYGE/",
+        "goldbag": false
     }
 ]
