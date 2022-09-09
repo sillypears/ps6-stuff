@@ -1090,5 +1090,33 @@
         "price": 270,
         "link": "https://www.instagram.com/p/CiPJLCQhYGE/",
         "goldbag": false
+    },
+    {
+        "day": 44,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-09",
+        "date_time_iso": "2022-09-09T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Bongoface",
+        "colorway": "Sweethearts (White)",
+        "quantity": 5,
+        "price": 230,
+        "link": "https://www.instagram.com/p/CiRt_miBgil/?igshid=YmMyMTA2M2Y=",
+        "goldbag": false
+    },
+    {
+        "day": 44,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-09",
+        "date_time_iso": "2022-09-09T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Bongoface",
+        "colorway": "Sweethearts (Black)",
+        "quantity": 5,
+        "price": 230,
+        "link": "https://www.instagram.com/p/CiRt_miBgil/?igshid=YmMyMTA2M2Y=",
+        "goldbag": false
     }
 ]
