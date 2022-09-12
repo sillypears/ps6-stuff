@@ -1118,5 +1118,19 @@
         "price": 230,
         "link": "https://www.instagram.com/p/CiRt_miBgil/?igshid=YmMyMTA2M2Y=",
         "goldbag": false
+    },
+    {
+        "day": 45,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-09-12",
+        "date_time_iso": "2022-09-12T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Egg Pilot",
+        "colorway": "Cyberware",
+        "quantity": 3,
+        "price": 325,
+        "link": "https://www.instagram.com/p/CiZcZM9piFw/",
+        "goldbag": false
     }
 ]
