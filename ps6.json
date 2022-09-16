@@ -1188,5 +1188,33 @@
         "price": 215,
         "link": "https://www.instagram.com/p/Ciel4iTImc4/",
         "goldbag": false
+    },
+    {
+        "day": 48,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-09-15",
+        "date_time_iso": "2022-09-15T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Soft Dusk",
+        "quantity": 18,
+        "price": 105,
+        "link": "https://www.instagram.com/p/CihKv8JBYDU/",
+        "goldbag": false
+    },
+    {
+        "day": 48,
+        "entry_time": "14",
+        "entry_unit": "minute",
+        "date_day": "2022-09-15",
+        "date_time_iso": "2022-09-15T21:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Gentle Dawn",
+        "quantity": 18,
+        "price": 105,
+        "link": "https://www.instagram.com/p/CihKv8JBYDU/",
+        "goldbag": false
     }
 ]
