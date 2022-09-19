@@ -1216,5 +1216,19 @@
         "price": 105,
         "link": "https://www.instagram.com/p/CihKv8JBYDU/",
         "goldbag": false
+    },
+    {
+        "day": 49,
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-16",
+        "date_time_iso": "2022-09-16T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Bongoface",
+        "colorway": "Mr. Stitches",
+        "quantity": 6,
+        "price": 390,
+        "link": "https://www.instagram.com/p/CijveWmvrv2/",
+        "goldbag": false
     }
 ]
