@@ -1,6 +1,7 @@
 [
     {
         "day": 1,
+        "fDay": "01",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-05",
@@ -15,6 +16,7 @@
     },
     {
         "day": 2,
+        "fDay": "02",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-06",
@@ -29,6 +31,7 @@
     },
     {
         "day": 2,
+        "fDay": "02",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-06",
@@ -43,6 +46,7 @@
     },
     {
         "day": 2,
+        "fDay": "02",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-06",
@@ -57,6 +61,7 @@
     },
     {
         "day": 2,
+        "fDay": "02",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-06",
@@ -71,6 +76,7 @@
     },
     {
         "day": 3,
+        "fDay": "03",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-07-07",
@@ -85,6 +91,7 @@
     },
     {
         "day": 4,
+        "fDay": "04",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-08",
@@ -99,6 +106,7 @@
     },
     {
         "day": 4,
+        "fDay": "04",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-08",
@@ -113,6 +121,7 @@
     },
     {
         "day": 4,
+        "fDay": "04",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-08",
@@ -127,6 +136,7 @@
     },
     {
         "day": 5,
+        "fDay": "05",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-11",
@@ -141,6 +151,7 @@
     },
     {
         "day": 5,
+        "fDay": "05",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-11",
@@ -155,6 +166,7 @@
     },
     {
         "day": 5,
+        "fDay": "05",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-11",
@@ -169,6 +181,7 @@
     },
     {
         "day": 6,
+        "fDay": "06",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-07-12",
@@ -183,6 +196,7 @@
     },
     {
         "day": 7,
+        "fDay": "07",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-13",
@@ -197,6 +211,7 @@
     },
     {
         "day": 8,
+        "fDay": "08",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-14",
@@ -211,6 +226,7 @@
     },
     {
         "day": 8,
+        "fDay": "08",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-14",
@@ -225,6 +241,7 @@
     },
     {
         "day": 8,
+        "fDay": "08",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-14",
@@ -239,6 +256,7 @@
     },
     {
         "day": 8,
+        "fDay": "08",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-14",
@@ -253,6 +271,7 @@
     },
     {
         "day": 9,
+        "fDay": "09",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-15",
@@ -267,6 +286,7 @@
     },
     {
         "day": 10,
+        "fDay": "10",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-18",
@@ -281,6 +301,7 @@
     },
     {
         "day": 11,
+        "fDay": "11",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-19",
@@ -295,6 +316,7 @@
     },
     {
         "day": 11,
+        "fDay": "11",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-19",
@@ -309,6 +331,7 @@
     },
     {
         "day": 12,
+        "fDay": "12",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-20",
@@ -323,6 +346,7 @@
     },
     {
         "day": 12,
+        "fDay": "12",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-20",
@@ -337,6 +361,7 @@
     },
     {
         "day": 13,
+        "fDay": "13",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-21",
@@ -351,6 +376,7 @@
     },
     {
         "day": 14,
+        "fDay": "14",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-07-22",
@@ -365,6 +391,7 @@
     },
     {
         "day": 15,
+        "fDay": "15",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-25",
@@ -379,6 +406,7 @@
     },
     {
         "day": 16,
+        "fDay": "16",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-26",
@@ -393,6 +421,7 @@
     },
     {
         "day": 17,
+        "fDay": "17",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-27",
@@ -407,6 +436,7 @@
     },
     {
         "day": 18,
+        "fDay": "18",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-28",
@@ -421,6 +451,7 @@
     },
     {
         "day": 18,
+        "fDay": "18",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-07-28",
@@ -435,6 +466,7 @@
     },
     {
         "day": 19,
+        "fDay": "19",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-07-29",
@@ -449,6 +481,7 @@
     },
     {
         "day": 20,
+        "fDay": "20",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-08-01",
@@ -463,6 +496,7 @@
     },
     {
         "day": 20,
+        "fDay": "20",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-08-01",
@@ -477,6 +511,7 @@
     },
     {
         "day": 21,
+        "fDay": "21",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-02",
@@ -491,6 +526,7 @@
     },
     {
         "day": 22,
+        "fDay": "22",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-03",
@@ -505,6 +541,7 @@
     },
     {
         "day": 23,
+        "fDay": "23",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-04",
@@ -519,6 +556,7 @@
     },
     {
         "day": 24,
+        "fDay": "24",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-05",
@@ -533,6 +571,7 @@
     },
     {
         "day": 24,
+        "fDay": "24",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-05",
@@ -547,6 +586,7 @@
     },
     {
         "day": 25,
+        "fDay": "25",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-08",
@@ -561,6 +601,7 @@
     },
     {
         "day": 25,
+        "fDay": "25",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-08",
@@ -575,6 +616,7 @@
     },
     {
         "day": 26,
+        "fDay": "26",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-09",
@@ -589,6 +631,7 @@
     },
     {
         "day": 26,
+        "fDay": "26",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-09",
@@ -603,6 +646,7 @@
     },
     {
         "day": 26,
+        "fDay": "26",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-09",
@@ -617,6 +661,7 @@
     },
     {
         "day": 27,
+        "fDay": "27",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-10",
@@ -631,6 +676,7 @@
     },
     {
         "day": 28,
+        "fDay": "28",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-08-11",
@@ -645,6 +691,7 @@
     },
     {
         "day": 29,
+        "fDay": "29",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-12",
@@ -659,6 +706,7 @@
     },
     {
         "day": 29,
+        "fDay": "29",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-12",
@@ -673,6 +721,7 @@
     },
     {
         "day": 30,
+        "fDay": "30",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-15",
@@ -687,6 +736,7 @@
     },
     {
         "day": 30,
+        "fDay": "30",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-15",
@@ -701,6 +751,7 @@
     },
     {
         "day": 31,
+        "fDay": "31",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-08-16",
@@ -715,6 +766,7 @@
     },
     {
         "day": 31,
+        "fDay": "31",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-08-16",
@@ -729,6 +781,7 @@
     },
     {
         "day": 32,
+        "fDay": "32",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-17",
@@ -743,6 +796,7 @@
     },
     {
         "day": 32,
+        "fDay": "32",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-17",
@@ -757,6 +811,7 @@
     },
     {
         "day": 33,
+        "fDay": "33",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-18",
@@ -771,6 +826,7 @@
     },
     {
         "day": 33,
+        "fDay": "33",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-18",
@@ -785,6 +841,7 @@
     },
     {
         "day": 34,
+        "fDay": "34",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-19",
@@ -799,6 +856,7 @@
     },
     {
         "day": 34,
+        "fDay": "34",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-19",
@@ -813,6 +871,7 @@
     },
     {
         "day": 35,
+        "fDay": "35",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-29",
@@ -827,6 +886,7 @@
     },
     {
         "day": 35,
+        "fDay": "35",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-29",
@@ -841,6 +901,7 @@
     },
     {
         "day": 35,
+        "fDay": "35",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-08-29",
@@ -855,6 +916,7 @@
     },
     {
         "day": 36,
+        "fDay": "36",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-30",
@@ -869,6 +931,7 @@
     },
     {
         "day": 37,
+        "fDay": "37",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-31",
@@ -883,6 +946,7 @@
     },
     {
         "day": 37,
+        "fDay": "37",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-31",
@@ -897,6 +961,7 @@
     },
     {
         "day": 37,
+        "fDay": "37",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-08-31",
@@ -911,6 +976,7 @@
     },
     {
         "day": 38,
+        "fDay": "38",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-01",
@@ -925,6 +991,7 @@
     },
     {
         "day": 39,
+        "fDay": "39",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-02",
@@ -939,6 +1006,7 @@
     },
     {
         "day": 39,
+        "fDay": "39",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-02",
@@ -953,6 +1021,7 @@
     },
     {
         "day": 39,
+        "fDay": "39",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-02",
@@ -967,6 +1036,7 @@
     },
     {
         "day": 40,
+        "fDay": "40",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-05",
@@ -981,6 +1051,7 @@
     },
     {
         "day": 40,
+        "fDay": "40",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-05",
@@ -995,6 +1066,7 @@
     },
     {
         "day": 40,
+        "fDay": "40",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-05",
@@ -1009,6 +1081,7 @@
     },
     {
         "day": 41,
+        "fDay": "41",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-09-06",
@@ -1023,6 +1096,7 @@
     },
     {
         "day": 41,
+        "fDay": "41",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-09-06",
@@ -1037,6 +1111,7 @@
     },
     {
         "day": 42,
+        "fDay": "42",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-07",
@@ -1051,6 +1126,7 @@
     },
     {
         "day": 42,
+        "fDay": "42",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-07",
@@ -1065,6 +1141,7 @@
     },
     {
         "day": 43,
+        "fDay": "43",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-08",
@@ -1079,6 +1156,7 @@
     },
     {
         "day": 43,
+        "fDay": "43",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-08",
@@ -1093,6 +1171,7 @@
     },
     {
         "day": 44,
+        "fDay": "44",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-09",
@@ -1107,6 +1186,7 @@
     },
     {
         "day": 44,
+        "fDay": "44",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-09",
@@ -1121,6 +1201,7 @@
     },
     {
         "day": 45,
+        "fDay": "45",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-12",
@@ -1135,6 +1216,7 @@
     },
     {
         "day": 46,
+        "fDay": "46",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-13",
@@ -1149,6 +1231,7 @@
     },
     {
         "day": 46,
+        "fDay": "46",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-13",
@@ -1163,6 +1246,7 @@
     },
     {
         "day": 47,
+        "fDay": "47",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-14",
@@ -1177,6 +1261,7 @@
     },
     {
         "day": 47,
+        "fDay": "47",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-14",
@@ -1191,6 +1276,7 @@
     },
     {
         "day": 48,
+        "fDay": "48",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-15",
@@ -1205,6 +1291,7 @@
     },
     {
         "day": 48,
+        "fDay": "48",
         "entry_time": "14",
         "entry_unit": "minute",
         "date_day": "2022-09-15",
@@ -1219,6 +1306,7 @@
     },
     {
         "day": 49,
+        "fDay": "49",
         "entry_time": "9",
         "entry_unit": "minute",
         "date_day": "2022-09-16",
@@ -1233,6 +1321,7 @@
     },
     {
         "day": 50,
+        "fDay": "50",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-09-19",
@@ -1247,6 +1336,7 @@
     },
     {
         "day": 50,
+        "fDay": "50",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-09-19",
@@ -1261,6 +1351,7 @@
     },
     {
         "day": 50,
+        "fDay": "50",
         "entry_time": "19",
         "entry_unit": "minute",
         "date_day": "2022-09-19",
