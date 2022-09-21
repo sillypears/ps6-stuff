@@ -1393,5 +1393,20 @@
         "price": 200,
         "link": "https://www.instagram.com/p/CiuCsJwpKw2/",
         "goldbag": false
+    },
+    {
+        "day": 52,
+        "fDay": "52",
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-21",
+        "date_time_iso": "2022-09-21T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Bongoface",
+        "colorway": "Snakeboi's Obfuscation",
+        "quantity": 6,
+        "price": 215,
+        "link": "https://www.instagram.com/p/Ciwncp0uX-d/",
+        "goldbag": false
     }
 ]
