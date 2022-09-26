@@ -1408,5 +1408,20 @@
         "price": 215,
         "link": "https://www.instagram.com/p/Ciwncp0uX-d/",
         "goldbag": false
+    },
+    {
+        "day": 53,
+        "fDay": "53",
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-26",
+        "date_time_iso": "2022-09-26T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Dio",
+        "quantity": 15,
+        "price": 130,
+        "link": "https://www.instagram.com/p/Ci9fgqzPEOY/",
+        "goldbag": false
     }
 ]
