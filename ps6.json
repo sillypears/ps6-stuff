@@ -1423,5 +1423,20 @@
         "price": 130,
         "link": "https://www.instagram.com/p/Ci9fgqzPEOY/",
         "goldbag": false
+    },
+    {
+        "day": 54,
+        "fDay": "54",
+        "entry_time": "19",
+        "entry_unit": "minute",
+        "date_day": "2022-09-27",
+        "date_time_iso": "2022-09-28T02:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Dental Plan",
+        "colorway": "Celestial Lorenzo",
+        "quantity": 9,
+        "price": 250,
+        "link": "https://www.instagram.com/p/CjAESy2sLXf/",
+        "goldbag": false
     }
 ]
