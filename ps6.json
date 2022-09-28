@@ -1438,5 +1438,20 @@
         "price": 250,
         "link": "https://www.instagram.com/p/CjAESy2sLXf/",
         "goldbag": false
+    },
+    {
+        "day": 55,
+        "fDay": "55",
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-28",
+        "date_time_iso": "2022-09-28T16:00:00+00:00",
+        "entry_window": 60,
+        "sculpt": "Fughoul",
+        "colorway": "Snowbrass Tower",
+        "quantity": 21,
+        "price": 125,
+        "link": "https://www.instagram.com/p/CjCpFAbhOlT/",
+        "goldbag": false
     }
 ]
