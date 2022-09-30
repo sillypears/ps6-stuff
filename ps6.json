@@ -1513,5 +1513,20 @@
         "price": 105,
         "link": "https://www.instagram.com/p/CjFN0qKP98k/",
         "goldbag": false
+    },
+    {
+        "day": 57,
+        "fDay": "57",
+        "entry_time": "9",
+        "entry_unit": "minute",
+        "date_day": "2022-09-30",
+        "date_time_iso": "2022-09-30T16:00:00+00:00",
+        "entry_window": 1440,
+        "sculpt": "Egg v2",
+        "colorway": "The Egg & Eye",
+        "quantity": 250,
+        "price": 200,
+        "link": "https://www.instagram.com/p/CjHyp9etbr5/",
+        "goldbag": false
     }
 ]
